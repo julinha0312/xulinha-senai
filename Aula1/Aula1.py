@@ -1,0 +1,5 @@
+print('ola,mundo')
+print("bom dia a todos")
+print("valentina almeida")
+print("quero ir embora")
+print("vinicios libera")
